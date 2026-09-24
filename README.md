@@ -14,7 +14,7 @@ Specifications live in `docs/spec/` as Markdown documents with normative require
 
 - Identifier scheme (`ES:<KIND>:<NAME>` and variants).
 - Relationship vocabulary (predicates, inverses, qualifications).
-- Lifecycle model (Candidate ;;; Investigating ;;; Proposed ;;; Established ;;; Canonical ;;; Mapped ;;; Deprecated ;;; Retired).
+- Lifecycle model (Candidate, Investigating, Proposed, Established, Canonical, Mapped, Deprecated, Retired).
 - Provenance schema.
 - Mapping schema (delegated to [enterprise-semantics-mappings](https://github.com/Enterprise-Semantics/enterprise-semantics-mappings)).
 - Serialization formats (YAML, JSON, JSON Schema).
